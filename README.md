@@ -67,10 +67,7 @@ I’m also comfortable with backend fundamentals using **Node.js, Express.js, an
 
 ---
 
-## 🌟 Featured Projects (Pin these 3 on your profile)
-> ✅ Make sure these repos are **Pinned** from your GitHub profile:  
-> Profile → “Customize your pins” → select these 3 client-side repos
-
+## 🌟 Featured Projects
 ### 1) SkillSwap — Local Skill Exchange Platform
 **Live Demo:** https://skillswap-4d128.web.app/  
 **GitHub Repo:** https://github.com/nazmulshishir01/skillswap
