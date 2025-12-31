@@ -33,7 +33,7 @@ I’m also comfortable with backend fundamentals using **Node.js, Express.js, an
 ---
 
 ## 🔥 Current Activities
-- 🚀 Exploring **Next.js** (routing, SSR/SSG) and modern React patterns
+- 🚀 Exploring **Next.js** and modern React patterns
 - ⚡ Improving **performance optimization** and **accessibility**
 - 🧠 Practicing **REST API development** with Node/Express + MongoDB
 - 🛠️ Building and refining real projects to improve UI/UX and code quality
