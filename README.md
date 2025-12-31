@@ -12,14 +12,14 @@
 </p>
 
 <p align="center">
-  📍 Upstal, Mirpur DOHS (UTC +06:00) •
+  📍  Mirpur DOHS (UTC +06:00) •
   📩 <a href="mailto:nazmulshishir28@gmail.com">nazmulshishir28@gmail.com</a> •
   📞 +8801937921124
 </p>
 
 <p align="center">
-  <a href="https://github.com/nazmulshishir01" target="_blank">GitHub</a> •
-  <a href="https://www.linkedin.com/in/nazmul-shishir" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/nazmulshishir01" target="_blank">GitHub</a>
+  <a href="https://www.linkedin.com/in/nazmul-shishir" target="_blank">LinkedIn</a>
 
 </p>
 
@@ -126,5 +126,4 @@ I’m also comfortable with backend fundamentals using **Node.js, Express.js, an
 ## 🤝 Contact
 - 📩 Email: **nazmulshishir28@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/nazmul-shishir**
-- 🌐 Website: **https://upstal.com/**
 - 🧑‍💻 GitHub: **https://github.com/nazmulshishir01**
