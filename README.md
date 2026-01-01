@@ -1,5 +1,5 @@
 <!-- ========================= -->
-<!--   Nazmul Shishir README   -->
+<!--   Md. Namzul Islam README   -->
 <!-- ========================= -->
 
 <!-- Banner -->
