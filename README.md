@@ -26,7 +26,7 @@
 ---
 
 ## 👋 About Me
-I’m **Nazmul Shishir**, a Frontend Web Developer skilled in **HTML, CSS, Tailwind CSS, JavaScript, React, and Next.js**.  
+I’m **Md. Nazmul Islam**, a Frontend Web Developer skilled in **HTML, CSS, Tailwind CSS, JavaScript, React, and Next.js**.  
 I love building **clean, responsive, and user-friendly** web applications.  
 I’m also comfortable with backend fundamentals using **Node.js, Express.js, and MongoDB** for APIs and database operations.
 
