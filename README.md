@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  📍  Mirpur DOHS (UTC +06:00) •
+  📍  Mirpur DOHS •
   📩 <a href="mailto:nazmulshishir28@gmail.com">nazmulshishir28@gmail.com</a> •
   📞 +8801937921124
 </p>
