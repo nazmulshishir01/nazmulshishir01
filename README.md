@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://i.ibb.co.com/vCgQvQVc/Red-and-White-Clean-Gardener-You-Tube-Banner.png" alt="Red-and-White-Clean-Gardener-You-Tube-Banner" border="0" /></p>
 
-<h2 align="center">Nazmul Shishir · he/him</h2>
+<h2 align="center">Md. Nazmul Islam </h2>
 <p align="center">
   Frontend Web Developer • React & Next.js • Clean, Responsive UI
 </p>
