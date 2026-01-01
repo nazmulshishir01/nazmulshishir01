@@ -8,7 +8,7 @@
 
 <h2 align="center">Md. Nazmul Islam </h2>
 <p align="center">
-  Frontend Web Developer • React & Next.js • Clean, Responsive UI
+  Frontend Web Developer • React & Next.js • Clean & Responsive UI
 </p>
 
 <p align="center">
